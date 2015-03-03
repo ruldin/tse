@@ -1,0 +1,8 @@
+<?php
+session_start();
+$_SESSION['DEPARTAMENTO']=0;
+$_SESSION['MUNICIPIO']=0;
+$_SESSION['TITULO']='NIVEL NACIONAL';
+?>
+
+
